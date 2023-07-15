@@ -1,0 +1,56 @@
+{
+  "heroes": [
+    {
+      "id": "8b5a2963-4aa8-41ad-9c2e-3cf3c1092bb6",
+      "name": "new hero",
+      "description": "hi there i'm new hero\n",
+      "element": "wind",
+      "nodeRef": {
+        "current": null
+      }
+    },
+    {
+      "id": "8426491b-ffc7-4201-9ec2-3a861f37d4ff",
+      "name": "unknown",
+      "description": "i guess which elemnt i should use or learn ",
+      "element": "",
+      "nodeRef": {
+        "current": null
+      }
+    },
+    {
+      "id": "916525dc-d6da-4b29-a500-a941b54585b2",
+      "name": "earth ",
+      "description": "Earth is here, helloooo",
+      "element": "earth",
+      "nodeRef": {
+        "current": null
+      }
+    },
+    {
+      "id": "82b2f72b-6c2e-406d-b4d7-414383a07462",
+      "name": "fire's friend",
+      "description": "hello, firing fire",
+      "element": "fire",
+      "nodeRef": {
+        "current": null
+      }
+    },
+    {
+      "id": "953b5a41-a721-4665-9ee5-c82032bebec0",
+      "name": "water",
+      "description": "water is life",
+      "element": "water",
+      "nodeRef": {
+        "current": null
+      }
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
